@@ -68,8 +68,8 @@
         <h1>Nimbus</h1>
         <p>Nimbus is a research project and a client implementation for Ethereum 2.0 designed to perform well on embedded systems and personal mobile devices, including older smartphones with resource-restricted hardware.</p>
         <div class="intro-buttons">
-            <a class="button button--main" href="/docs/">READ THE DOCS</a>
-            <a class="button button--secondary" href="/docs/contribute.html">GET INVOLVED</a>
+            <a class="button button--main" href="/nimbus.status.im/docs/">READ THE DOCS</a>
+            <a class="button button--secondary" href="/nimbus.status.im/docs/contribute.html">GET INVOLVED</a>
         </div>
     </div>
 
@@ -81,7 +81,7 @@
         <h2>Future Plans</h2>
         <p>The Nimbus team kicked off research in March 2018 and has been steadily making progress on X,Y,Z. Below is a list of activities the team will be working on.
         </p>
-        <span><a href="/docs/">See all the documentation here</a></span> <a href="/docs/"><img src="../nimbus.status.im/img/arrow_orange.png" /></a> 
+        <span><a href="/docs/">See all the documentation here</a></span> <a href="/nimbus.status.im/docs/"><img src="../nimbus.status.im/img/arrow_orange.png" /></a> 
 
         
         <div class="work-item">
