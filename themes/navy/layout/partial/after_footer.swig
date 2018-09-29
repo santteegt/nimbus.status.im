@@ -2,10 +2,10 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="/nimbus.status.im/js/bundle.js?v=0.0.1"></script>
 <!-- build:js build/js/main.js -->
-{{ js('nimbus.status.im/js/lang_select') }}
-{{ js('nimbus.status.im/js/toc') }}
-{{ js('nimbus.status.im/js/mobile_nav') }}
-{{ js('nimbus.status.im/js/search') }}
+{{ js('js/lang_select') }}
+{{ js('js/toc') }}
+{{ js('js/mobile_nav') }}
+{{ js('js/search') }}
 <!-- endbuild -->
 {% if page.layout === 'plugins' %}
 <!-- Plugin search -->
