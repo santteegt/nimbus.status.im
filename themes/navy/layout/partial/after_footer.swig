@@ -1,11 +1,12 @@
 <!-- Scripts -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script src="/nimbus.status.im/js/bundle.js?v=0.0.1"></script>
+<script src="/js/bundle.js?v=0.0.1"></script>
 <!-- build:js build/js/main.js -->
 {{ js('js/lang_select') }}
 {{ js('js/toc') }}
 {{ js('js/mobile_nav') }}
 {{ js('js/search') }}
+{{ js('js/fetch_blog_posts') }}
 <!-- endbuild -->
 {% if page.layout === 'plugins' %}
 <!-- Plugin search -->
@@ -13,12 +14,12 @@
 <!-- Lazy load -->
 <script async src="https://cdn.jsdelivr.net/lazysizes/3.0.0/lazysizes.min.js"></script>
 <!-- build:js build/js/plugins.js -->
-{{ js('nimbus.status.im/js/plugins') }}
+{{ js('js/plugins') }}
 <!-- endbuild -->
 {% endif %}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js"></script>
-<script async src="/nimbus.status.im/js/highlight.pack.js"></script>
-<script async src="/nimbus.status.im/js/solidity.js"></script>
+<script async src="/js/highlight.pack.js"></script>
+<script async src="/js/solidity.js"></script>
 <script>
 
 function highlight() {
