@@ -3401,6 +3401,7 @@ pre code {
   display: box;
   display: flex;
   object-fit: cover;
+  border-radius: 50%;
 }
 footer {
   color: #7d7f88;
