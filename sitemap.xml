@@ -9,7 +9,21 @@
   </url>
   
   <url>
+    <loc>https://dev-nimbus.status.im/docs/team.html</loc>
+    
+    <lastmod>2018-10-12T13:32:08.314Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://dev-nimbus.status.im/docs/building.html</loc>
+    
+    <lastmod>2018-10-12T13:32:08.314Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev-nimbus.status.im/docs/contributor_guide.html</loc>
     
     <lastmod>2018-10-12T13:32:08.314Z</lastmod>
     
@@ -30,7 +44,7 @@
   </url>
   
   <url>
-    <loc>https://dev-nimbus.status.im/docs/contributor_guide.html</loc>
+    <loc>https://dev-nimbus.status.im/docs/index.html</loc>
     
     <lastmod>2018-10-12T13:32:08.314Z</lastmod>
     
@@ -44,37 +58,9 @@
   </url>
   
   <url>
-    <loc>https://dev-nimbus.status.im/docs/index.html</loc>
-    
-    <lastmod>2018-10-12T13:32:08.314Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://dev-nimbus.status.im/docs/options.html</loc>
     
     <lastmod>2018-10-12T13:32:08.314Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://dev-nimbus.status.im/docs/team.html</loc>
-    
-    <lastmod>2018-10-12T13:32:08.314Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://dev-nimbus.status.im/news/2018/09/27/nimbus-partnership/</loc>
-    
-    <lastmod>2018-10-05T14:35:59.087Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://dev-nimbus.status.im/index.html</loc>
-    
-    <lastmod>2018-10-05T14:35:59.087Z</lastmod>
     
   </url>
   
@@ -93,7 +79,21 @@
   </url>
   
   <url>
+    <loc>https://dev-nimbus.status.im/index.html</loc>
+    
+    <lastmod>2018-10-05T14:35:59.087Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://dev-nimbus.status.im/extensions/index.html</loc>
+    
+    <lastmod>2018-10-05T14:35:59.087Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev-nimbus.status.im/tutorials/index.html</loc>
     
     <lastmod>2018-10-05T14:35:59.087Z</lastmod>
     
@@ -107,7 +107,7 @@
   </url>
   
   <url>
-    <loc>https://dev-nimbus.status.im/tutorials/index.html</loc>
+    <loc>https://dev-nimbus.status.im/news/2018/09/27/nimbus-partnership/</loc>
     
     <lastmod>2018-10-05T14:35:59.087Z</lastmod>
     
